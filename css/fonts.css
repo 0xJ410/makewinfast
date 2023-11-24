@@ -1,0 +1,84 @@
+@font-face {
+    font-family: SCP-black;
+    src: url('/fonts/static/SourceCodePro-Black.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-blackItalic;
+    src: url('/fonts/static/SourceCodePro-BlackItalic.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-bold;
+    src: url('/fonts/static/SourceCodePro-Bold.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-boldItalic;
+    src: url('/fonts/static/SourceCodePro-BoldItalic.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: SCP-extraBold;
+    src: url('/fonts/static/SourceCodePro-ExtraBold.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-extraBoldItalic;
+    src: url('/fonts/static/SourceCodePro-ExtraBoldItalic.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-extraLight;
+    src: url('/fonts/static/SourceCodePro-ExtraLight.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-extraLightItalic;
+    src: url('/fonts/static/SourceCodePro-ExtraLightItalic.ttf') format('truetype');
+  }
+
+@font-face {
+    font-family: SCP-italic;
+    src: url('/fonts/static/SourceCodePro-Italic.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-light;
+    src: url('/fonts/static/SourceCodePro-Light.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-lightItalic;
+    src: url('/fonts/static/SourceCodePro-LightItalic.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-medium;
+    src: url('/fonts/static/SourceCodePro-Medium.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: SCP-mediumItalic;
+    src: url('/fonts/static/SourceCodePro-MediumItalic.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-regular;
+    src: url('/fonts/static/SourceCodePro-Regular.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-semiBold;
+    src: url('/fonts/static/SourceCodePro-SemiBold.ttf') format('truetype');
+  }
+  
+@font-face {
+    font-family: SCP-semiBoldItalic;
+    src: url('/fonts/static/SourceCodePro-SemiBoldItalic.ttf') format('truetype');
+  }
+
+
+  
+
+  

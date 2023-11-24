@@ -1,0 +1,17 @@
+.firPage {
+    height: 100vh;
+    width: 100%;
+    background: #181716;
+}
+
+.secPage {
+    height: 100vh;
+    width: 100%;
+    background: #000000;
+}
+
+
+@media only screen and (min-width: 992px) {
+
+
+}
