@@ -8,24 +8,63 @@ body::-webkit-scrollbar {
     display: none;
 }
 
-.introPage {
+html {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.firPage {
     height: 100vh;
     background: #181716;
     width: 100%;
 }
 
 .secPage {
-    height: 100vh;
+    height: auto;
     background: #000000;
     width: 100%;
 }
 
+.thiPage {
+    height: auto;
+    background: #161716;
+    width: 100%;
+}
 
-.IntroFont {
+.fouPage {
+    height: auto;
+    background: #000000;
+    width: 100%;
+}
+
+.fivPage {
+    height: auto;
+    background: #161716;
+    width: 100%;
+}
+
+/*SPANS*/
+
+.IFont {
     font-family: SCP-Bold;
-    font-size: 2rem;
+}
+
+.DFont {
+    font-family: SCP-regular;
+}
+
+.boldFont {
+    font-weight: bold;
 }
 
 .FC1 {
     color: #ccc5b9;
+}
+
+.FC2 {
+    color: #ed6f3f;
 }

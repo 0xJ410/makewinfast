@@ -1,0 +1,137 @@
+.introPage {
+    padding: 20vh 5% 0vh 5%;
+}
+
+    .introPage h1 {
+        font-size: 2rem;
+    }
+    .introPage p {
+        font-size: 0.8rem;
+    }
+    .introPage h5 {
+        padding: 2vh 0;
+        font-size: 1rem;
+    }
+    .introPage h6 {
+        padding: 2vh 0;
+        font-size: 0.8rem;
+    }
+
+.linkStart {
+    padding: 10vh 0vw 4vh 0vw;
+    text-align: center;
+}
+    .startButton {
+        font-family: SCP-extraBold;
+        font-size: 2rem;
+        text-decoration: none;
+    }
+
+.descPage {
+    padding: 8vh 5% 5vh 5%;
+    font-size: clamp(1rem, 1.1rem, 1.2rem);
+}   
+
+    .descPage p {
+        font-size: clamp(1rem, 2vw, 1.2rem);
+        padding: 4vh 2vw;
+        text-indent: 30px;
+    }
+
+.ulPage {
+    padding: 4vh 8vw 0vh 8vw;
+    font-size: clamp(1rem, 2vw, 1.2rem);
+}
+
+    .ulPageTitle {
+        padding: 4vh 0;
+    }
+    .ulPageDesc {
+        padding: 2vh 0;
+        text-indent: 30px;
+
+    }
+
+    .titleBullet {
+        padding: 4vh 0;
+        font-size: clamp(1.2rem, 2vw, 1.5rem);
+
+    }
+
+    .listBullet {
+        padding: 0 0 0 5%;
+    }
+    .descBullet {
+        margin: 4vh 0 4vh 0%;
+        font-size: clamp(1rem, 1vw, 1.2rem);
+
+    }
+    .descBulletAdd {
+        margin: 8vh 0 2vh 0%;
+        font-size: 0.8rem;
+    }
+    .picDiv {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .picBullet {
+        height: auto;
+        max-width: 100%;
+        max-height: 70vh;
+    }
+    .descPicBullet {
+        font-style: italic;
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+    
+
+.fivPage {
+    padding: 0vh 5% 0vh 5%;
+    border-top: #ed6f3f solid 1px;
+}
+
+.addInfoPage {
+    padding: 4vh 5% 0vh 5%;
+    border-top: #ed6f3f solid 1px;
+
+}
+
+    .addInfoPage p {
+        font-size: 1rem;
+        padding: 4vh 0 2vh 0;
+        text-indent: 30px;
+    }
+    .listAddInfo {
+        padding: 5vh 0 5vh 5%;
+    }
+        .listAddInfo li {
+            padding: 2vh 0;
+        }
+
+    .lastWords {
+        padding: 5vh 0 5vh 5vw;
+    }
+
+.lastPage {
+    padding: 0vh 5% 0vh 5%;
+}
+
+    .qouteText {
+        font-style: italic;
+    }
+
+    .lastPage p{
+        color: #ccc5b9;
+        text-align: center;
+        font-size: clamp(0.8rem, 2vw, 1.2rem);
+        padding: 2vh 5vw;
+    
+        font-family: SCP-Regular;
+        letter-spacing: 1px;
+    }
+
+
+
+
