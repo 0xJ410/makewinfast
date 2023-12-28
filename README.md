@@ -1,1 +1,1 @@
-# makeWinFast
+# makewinfast
